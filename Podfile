@@ -7,6 +7,7 @@ target 'iOS_Authentication' do
 
   # Pods for iOS_Authentication
   pod 'Firebase/Core'
-  pod 'FirebaseUI'
+  pod 'FirebaseUI/Auth'
+  pod 'FirebaseUI/Twitter'
 
 end
